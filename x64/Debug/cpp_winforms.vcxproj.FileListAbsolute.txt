@@ -1,0 +1,3 @@
+C:\Users\svetic\source\repos\cpp_winforms\cpp_winforms\x64\Debug\cpp_winforms.vcxproj.AssemblyReference.cache
+C:\Users\svetic\source\repos\cpp_winforms\cpp_winforms\x64\Debug\cppwinforms.MyForm.resources
+C:\Users\svetic\source\repos\cpp_winforms\cpp_winforms\x64\Debug\cpp_winforms.vcxproj.GenerateResource.cache
